@@ -7,7 +7,7 @@ with open('bulkpcrf.csv', 'r') as csv_file:     #replace with actual file name
     for line in csv_reader:
         st1 = '0' or '0.0'                      #if you want to ignore null records
         st2 = 'AAR'                             #KPI, as per need change to other diameter cmds, cpu, memory etc.
-        st3 = re.sub('.*f01-', '', line[1])     #re was imported to hide some info, otherwise st3 = line[1]
+        st3 = re.sub('.*f01-', '', line[1])     #re was imported to trim the name, otherwise st3 = line[1]
         st4 = line[2]
         st5 = line[3]
         tr = [st3, st4, st5]
