@@ -1,7 +1,7 @@
 import csv
 import re
 import tabulate
-with open('bulkpcrf.csv', 'r') as csv_file:
+with open('bulkpcrf.csv', 'r') as csv_file:     #replace with actual file name
     csv_reader = csv.reader(csv_file)
     table = list()
     for line in csv_reader:
