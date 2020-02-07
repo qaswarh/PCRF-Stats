@@ -10,7 +10,7 @@ The following list is a sample of a file name created in the /var/broadhop/stats
 				bulk-pcrfclient01-201510131350.csv
         
 This information is available on internet with further details, for example in CPS 19.2.0 Operations Guide @ 
-Markup :  [Named Link](https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R19-2-0/CPS19-2-0OperationsGuide/CPS18-1-0OperationsGuide_chapter_01000.html "CPS 19.2.0 Operations Guide")
+Markup :  [Named Link](https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R19-2-0/CPS19-2-0OperationsGuide/CPS18-1-0OperationsGuide_chapter_01000.html/ "CPS 19.2.0 Operations Guide")
 https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R19-2-0/CPS19-2-0OperationsGuide/CPS18-1-0OperationsGuide_chapter_01000.html
 
 The purpose of this script is to extract the desired information from a bulk statistics CSV file and print in fancy (doesn't look in this view unless in the edit mode) table. Here is partial output from the script when string varible st2 is set to 'AAR' 
