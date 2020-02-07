@@ -4,6 +4,7 @@ on pcrfclient01 and pcrfclient02 VMs in five-minute intervals. These CSV files i
 from all VMs during the five-minute. CPS retains each bulk statistic CSV file on the pcrfclient01/02 VM for 2 days
 
 The following is an example of a file name created in the /var/broadhop/stats/ directory on the pcrfclient01 VM.
+
 ![image](https://user-images.githubusercontent.com/47313728/74007041-3aaf9780-4932-11ea-9ad4-db69bdfc45d3.png)
         
 This information is available on internet with further details, for example in 
