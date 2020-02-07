@@ -9,7 +9,7 @@ The following list is a sample of a file name created in the /var/broadhop/stats
 				[root@pcrfclient01 stats]# ls
 				bulk-pcrfclient01-201510131350.csv
         
-This information is available on internet with further details, for example in CPS 19.2.0 Operations Guide @ 
+This information is available on internet with further details, for example in CPS 19.2.0 Operations Guide @
 Markup :  [Named Link](https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R19-2-0/CPS19-2-0OperationsGuide/CPS18-1-0OperationsGuide_chapter_01000.html/ "CPS 19.2.0 Operations Guide")
 https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R19-2-0/CPS19-2-0OperationsGuide/CPS18-1-0OperationsGuide_chapter_01000.html
 
