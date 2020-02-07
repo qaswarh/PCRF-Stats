@@ -12,4 +12,5 @@ This information is available on internet with further details, for example in
 
 The purpose of this script is to extract the desired information from a bulk statistics CSV file and print in fancy table. Here is partial output from the script when string varible st2 is set to 'AAR'
 
-![image](https://user-images.githubusercontent.com/47313728/74006158-a9d7bc80-492f-11ea-93fe-2b8a64a6620f.png)
+![image](https://user-images.githubusercontent.com/47313728/74006158-a9d7bc80-492f-11ea-93fe-2b8a64a6620f.png) 
+![image](https://user-images.githubusercontent.com/47313728/74008720-6d5b8f00-4936-11ea-9e3f-af3757ae8ca9.png)
